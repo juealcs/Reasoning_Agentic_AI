@@ -151,9 +151,7 @@ export AZURE_OPENAI_DEPLOYMENT="gpt-4.1"
 # Evaluate Results
 
 ```bash
-python judge.py \
-  --input_file file_path \
-  --judge_model gpt-4.1
+python judge.py --input_file file_path --expected_final_max_tokens 4096
 ```
 
 ---

@@ -1,6 +1,6 @@
 # Rethinking Reasoning for Next-Generation Agentic AI
 
-Official repository for evaluating **reasoning efficiency in Agentic AI**. This framework benchmarks autonomous LLM agents by analyzing reasoning behavior, tool usage, latency, token consumption, and task performance across multiple foundation models.
+This framework benchmarks autonomous LLM agents by analyzing reasoning behavior, tool usage, latency, token consumption, and task performance across multiple foundation models.
 
 **GitHub:** https://github.com/juealcs/Reasoning_Agentic_AI
 

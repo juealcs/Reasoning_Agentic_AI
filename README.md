@@ -157,14 +157,6 @@ python judge.py \
   --judge_model gpt-4.1
 ```
 
-Example:
-
-```bash
-python judge.py \
-  --input_file file_path\
-  --judge_model gpt-4.1
-```
-
 ---
 
 # Output Structure

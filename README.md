@@ -8,7 +8,7 @@ Official repository for evaluating **reasoning efficiency in Agentic AI**. This 
 
 ## Features
 
-- Agentic AI benchmark built with LangGraph
+- Agentic AI framework built with LangGraph
 - Dynamic tool routing
 - Web search and long-term memory tools
 - Local inference using vLLM

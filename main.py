@@ -32,16 +32,6 @@ MODEL_REGISTRY = {
         "model_name": "qwen35-4b",
         "hf_id": "Qwen/Qwen3.5-4B",
     },
-    "qwen3-4b": {
-        "model_id": "qwen3-4b",
-        "model_name": "qwen3-4b",
-        "hf_id": "Qwen/Qwen3-4B",
-    },
-    "qwen3-8b": {
-        "model_id": "qwen3-8b",
-        "model_name": "qwen3-8b",
-        "hf_id": "Qwen/Qwen3-8B",
-    },
     "llama31-8b": {
         "model_id": "llama31-8b",
         "model_name": "llama31-8b",
